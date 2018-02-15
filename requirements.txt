@@ -1,0 +1,10 @@
+nltk==3.2.4
+pymystem3==0.1.9
+tensorflow_gpu==1.4.1
+ujson==1.35
+tqdm==4.15.0
+numpy==1.14.0
+mock==2.0.0
+flask==0.12.2
+flasgger==0.8.1
+flask-cors==3.0.3

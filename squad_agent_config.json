@@ -1,0 +1,21 @@
+{
+	"kpi_name":"kpi4",
+    "api_host":"0.0.0.0",
+    "api_port":6008,
+    "api_debug":0,
+	"kpis":
+	{
+		"kpi4":
+		{
+			"settings_kpi":
+				{
+					"rest_url":"http://api.aibotbench.com/kpi4/qas"
+				},
+			"settings_agent":
+				{
+					"test_tasks_number":5,
+					"sber_tasks_template_file":"sber_tasks_template.json"
+				}
+		}
+	}
+}

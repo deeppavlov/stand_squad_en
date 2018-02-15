@@ -1,0 +1,20 @@
+{
+  "id": "dummy_s",
+  "type": "rusquad",
+  "paragraphs": [
+    {
+      "id": "dummy_p",
+      "context": "context",
+      "qas": [
+        {
+          "id": "dummy",
+          "question": "question",
+          "answers": []
+        }
+      ],
+      "title": null,
+      "type": "task"
+    }],
+  "answers": {},
+  "total": 1
+}
