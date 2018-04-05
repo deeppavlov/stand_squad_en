@@ -50,5 +50,5 @@
    ```
 4. Run Docker image:
    ```
-   sudo docker run -p <host_port>:6008 --runtime=nvidia --device=/dev/nvidia<gpu_unit_int_id> -v /path/to/host/vol/map/dir:/vol stand/squad_en
+   sudo docker run -p <host_port>:6008 --runtime=nvidia --device=/dev/nvidia<gpu_unit_int_id> -v </path/to/host/vol/map/dir>:/logs stand/squad_en
    ```
